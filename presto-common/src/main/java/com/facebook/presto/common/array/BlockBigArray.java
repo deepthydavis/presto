@@ -16,6 +16,7 @@ package com.facebook.presto.common.array;
 import com.facebook.presto.common.block.Block;
 import org.openjdk.jol.info.ClassLayout;
 
+//deepthy comment3
 public final class BlockBigArray
 {
     private static final int INSTANCE_SIZE = ClassLayout.parseClass(BlockBigArray.class).instanceSize();

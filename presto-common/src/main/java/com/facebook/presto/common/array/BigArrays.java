@@ -17,6 +17,7 @@ package com.facebook.presto.common.array;
 // Copyright (C) 2010-2013 Sebastiano Vigna
 final class BigArrays
 {
+    // deepthy comment 2
     private BigArrays() {}
 
     /**

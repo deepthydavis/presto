@@ -31,7 +31,7 @@ public class Arrays
         if (buffer == null || buffer.length < capacity) {
             return new boolean[(int) (capacity * SMALL.expansionFactor)];
         }
-
+        // deepthy comment
         return buffer;
     }
 
